@@ -1,5 +1,5 @@
 # https://github.com/thiswillbeyourgithub/i3_search_anki_collection
-# Work under GPL v3 license
+# Work under AGPL v3 license
 import urllib.request
 import json
 import argparse
